@@ -1,0 +1,3 @@
+rootProject.name = 'LogVolume_Calculator'
+
+include ':app'
